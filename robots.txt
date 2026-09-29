@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /app/admin-blog
+Disallow: /app/inbox
+Disallow: /app/profile
+Disallow: /app/my-tours
+Disallow: /app/operations
+Disallow: /app/add-tour
+Disallow: /app/login
+Disallow: /app/register
+Sitemap: https://explorecals.com/sitemap.xml
